@@ -1,26 +1,30 @@
+/* Define default background color */
 body {
   background-color: #b7c9bd;
 }
 
+/* Define margins */
 header,
 p,
 ul {
   margin: 10;
 }
 
+/* Style the h1 and h2 sections */
 h1,
 h2 {
   color: #744531;
   font-family: Verdana;
 }
 
+/* Style the p and ul sections */
 p,
 ul {
   color: #9f4b32;
   font-family: Georgia;
 }
 
-/* Add a black background color to the top navigation */
+/* Add a background color to the top navigation */
 .topnav {
   background-color: #355650;
   overflow: hidden;
