@@ -9,7 +9,7 @@ This is a small static website project. Work will be completed in short iteratio
 
 ### GitHub Pages Misconfiguration
 **Description:** GitHub Pages misconfiguration prevents the site from publishing correctly.  
-**Mitigation:** Pperform testing after the completion of all coding.
+**Mitigation:** Perform testing after the completion of all coding.
 
 ### Broken navigation
 **Description:** Broken navigation between 'index.html' and 'about.html'.  
@@ -19,7 +19,7 @@ This is a small static website project. Work will be completed in short iteratio
 **Description:** Repository structure or filenames do not meet the assignment requirements.  
 **Mitigation:** Use the final project checklist to validate all names and structure before submission.
 
-### Scoop Creep
+### Scope Creep
 **Description:** Scope creep (extra pages, features, JavaScript, or databases).  
 **Mitigation:** Restrict the final deliverable to two pages and static content only.
 
@@ -40,11 +40,11 @@ This is a small static website project. Work will be completed in short iteratio
 
 ### Phase 3 — Project HTML and Styling Files (1–2 hours)
 1. Update 'index.html' file
-   - hobby intro
-   - overview of two systems (Atari 2600 & NES)
+   - Hobby intro
+   - Overview of two systems (Atari 2600 & NES)
 2. Update 'about.html' file
-   - background
-   - why retro
+   - Background
+   - Why retro
 3. Update documentation as needed
 4. Update 'retrospective.md' file with outline
 
@@ -56,7 +56,7 @@ This is a small static website project. Work will be completed in short iteratio
 ### Phase 5 — Publish and Testing (1–2 hours)
 1. Enable GitHub Pages and confirm live URL
 1. Update 'README.md' with live link and documentation links
-2. Final Testing checklist:
+2. Final Testing Checklist:
     - required files present
     - links work
     - CSS loads

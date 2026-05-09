@@ -8,7 +8,7 @@
 The purpose of this project is to design and deliver a simple website that introduces viewers to and explains the hobby of retro game systems, such as the Atari 2600.
 
 ## Description
-This project will consist of creating a two page static website that focuses on retro game systems.  There will be an emphasis on the unique attributes of older systems such as the Atari 2600. The site will include a homepage describing the hobby and its appeal, and an About page providing background on retro gaming. All project documentation, including planning documentation will be stored in a single public GitHub repository.
+This project will consist of creating a two page static website that focuses on retro game systems.  There will be an emphasis on the unique attributes of older systems such as the Atari 2600. The site will include a homepage describing the hobby and its appeal, and an About page providing background on retro gaming. All project documentation, including planning documentation, will be stored in a single public GitHub repository.
 
 ## Desired Results
 - A live and accessible static website
