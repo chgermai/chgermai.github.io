@@ -9,6 +9,6 @@ This project will consist of creating a two page static website that focuses on 
 Readme File: https://chgermai.github.io/README.md
 
 Project documents are located in ./docs:
-- https://chgermai.github.io//docs/scope.md
-- https://chgermai.github.io//docs/plan.md
-- https://chgermai.github.io//docs/retrospective.md
+- https://chgermai.github.io/docs/scope.md
+- https://chgermai.github.io/docs/plan.md
+- https://chgermai.github.io/docs/retrospective.md

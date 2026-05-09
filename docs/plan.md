@@ -30,19 +30,19 @@ This is a small static website project. Work will be completed in short iteratio
 ### Phase 1 — Repository Setup (1–2 hours)
 1. Create a public GitHub repository
 2. Create README.md file
-3. Create '/docs' folder and required files
+3. Create `/docs` folder and required files
 4. Create empty HTML/CSS and verify using local browser
 
 ### Phase 2 — Project Scoping and Planning Documentation (1–2 hours)
-1. Update 'scope.md' file
-2. Draft 'plan.md' file
-3. Draft 'README.md' file
+1. Update `scope.md` file
+2. Draft `plan.md` file
+3. Draft `README.md` file
 
 ### Phase 3 — Project HTML and Styling Files (1–2 hours)
-1. Update 'index.html' file
+1. Update `index.html` file
    - Hobby intro
    - Overview of two systems (Atari 2600 & NES)
-2. Update 'about.html' file
+2. Update `about.html` file
    - Background
    - Why retro
 3. Update documentation as needed
@@ -55,7 +55,7 @@ This is a small static website project. Work will be completed in short iteratio
 
 ### Phase 5 — Publish and Testing (1–2 hours)
 1. Enable GitHub Pages and confirm live URL
-1. Update 'README.md' with live link and documentation links
+1. Update `README.md` with live link and documentation links
 2. Final Testing Checklist:
     - required files present
     - links work
